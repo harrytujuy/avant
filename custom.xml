@@ -1,0 +1,29 @@
+﻿<?xml version='1.0' encoding='UTF-8' ?>
+<header_vars>
+<graphics_color>FFFFFF</graphics_color>
+<animation_loop>no</animation_loop>
+<header>
+	<text_header_h1 x_pos="205" y_pos="35" size="29" letter_spacing="0" text_color="000000">ASESORIA PROFESIONAL</text_header_h1>
+	<!-- <text_header_h2 x_pos="30" y_pos="115" size="18" letter_spacing="1.7" text_color="61778e">YOUR OWN SLOGANS AND IMAGES</text_header_h2> -->	
+	<image blur="no">images/flashimages/background1.jpg</image>
+</header>
+<header>
+	<text_header_h1 x_pos="205" y_pos="35" size="19" letter_spacing="0" text_color="000000">CONSTRUIMOS GRANDES PROYECTOS</text_header_h1>
+	<!-- <text_header_h2 x_pos="280" y_pos="155" size="10" letter_spacing="1.9" text_color="FFFFFF">YOUR OWN SLOGANS AND IMAGES</text_header_h2> -->	
+	<image blur="no">images/flashimages/background2.jpg</image>
+</header>
+<header>
+	<text_header_h1 x_pos="260" y_pos="35" size="19" letter_spacing="0" text_color="267bc4">GRAN TRABAJO EN EQUIPO</text_header_h1>
+	<!-- <text_header_h2 x_pos="335" y_pos="45" size="10" letter_spacing="1.9" text_color="61778e">YOUR OWN SLOGANS AND IMAGES</text_header_h2>	-->
+	<image blur="no">images/flashimages/background3.jpg</image>
+</header>
+<header>
+	<!-- <text_header_h1 x_pos="25" y_pos="80" size="29" letter_spacing="0" text_color="267bc4">TECHNOLOGIX WEBSITE</text_header_h1>
+	<text_header_h2 x_pos="30" y_pos="115" size="18" letter_spacing="1.7" text_color="61778e">YOUR OWN SLOGANS AND IMAGES</text_header_h2> -->	
+	<image blur="no">images/flashimages/logo.jpg</image>
+</header>
+<music_file loop="no" music_control="no" play_music="no">sounds/music.mp3</music_file>
+<play_transition_sound_file>no</play_transition_sound_file>
+<display_preload graphic_color="FFFFFF">yes</display_preload>
+<replay display="yes" x_pos="775" y_pos="210" size="8" letter_spacing="1" bgd_color="FFFFFF" text_color="000000"> REPLAY</replay>
+</header_vars>
