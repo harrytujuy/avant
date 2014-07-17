@@ -2,9 +2,9 @@ html,body {
 	margin:0;
 	padding:0;
 	background:#3a4652 url("images/fond.gif") repeat-x;
+	height: 900px;
 	font-family:arial,sans-serif;
 	font-size:small;
-	color:#ffffff;
 }
 
 div#container {
@@ -208,11 +208,11 @@ h1 {
 	text-align: left;
 }
 .txt {
-	font: 11px "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font: 14px "Sylfaen", Arial, Helvetica, sans-serif;
 	color: #FFF;
 }
 .txt2 {
-	font: 12px "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font: 14px "Sylfaen", Arial, Helvetica, sans-serif;
 	color: #9baab9;
 }
 .more {
