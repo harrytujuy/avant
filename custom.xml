@@ -3,17 +3,17 @@
 <graphics_color>FFFFFF</graphics_color>
 <animation_loop>no</animation_loop>
 <header>
-	<text_header_h1 x_pos="205" y_pos="35" size="29" letter_spacing="0" text_color="000000">ASESORIA PROFESIONAL</text_header_h1>
+	<text_header_h1 x_pos="205" y_pos="15" size="29" letter_spacing="0" text_color="FFFFFF">ASESORIA PROFESIONAL</text_header_h1>
 	<!-- <text_header_h2 x_pos="30" y_pos="115" size="18" letter_spacing="1.7" text_color="61778e">YOUR OWN SLOGANS AND IMAGES</text_header_h2> -->	
 	<image blur="no">images/flashimages/asesoria1.jpg</image>
 </header>
 <header>
-	<text_header_h1 x_pos="205" y_pos="35" size="19" letter_spacing="0" text_color="000000">CONSTRUIMOS GRANDES PROYECTOS</text_header_h1>
+	<text_header_h1 x_pos="205" y_pos="15" size="19" letter_spacing="0" text_color="000000">CONSTRUIMOS GRANDES PROYECTOS</text_header_h1>
 	<!-- <text_header_h2 x_pos="280" y_pos="155" size="10" letter_spacing="1.9" text_color="FFFFFF">YOUR OWN SLOGANS AND IMAGES</text_header_h2> -->	
 	<image blur="no">images/flashimages/construimos1.jpg</image>
 </header>
 <header>
-	<text_header_h1 x_pos="260" y_pos="35" size="19" letter_spacing="0" text_color="267bc4">GRAN TRABAJO EN EQUIPO</text_header_h1>
+	<text_header_h1 x_pos="260" y_pos="15" size="19" letter_spacing="0" text_color="267bc4">GRAN TRABAJO EN EQUIPO</text_header_h1>
 	<!-- <text_header_h2 x_pos="335" y_pos="45" size="10" letter_spacing="1.9" text_color="61778e">YOUR OWN SLOGANS AND IMAGES</text_header_h2>	-->
 	<image blur="no">images/flashimages/equipo.jpg</image>
 </header>
