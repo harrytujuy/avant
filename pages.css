@@ -97,6 +97,14 @@ img {
 	font: 15px "Sylfaen", Arial, Helvetica, Sans-Serif;
 }
 
+#left p.sansBig {
+	/*border: 2px solid red;*/
+	padding-left: 15px;
+	width: 560px;
+	float:left;
+	font: 17px "Sylfaen", Arial, Helvetica, Sans-Serif;
+}
+
 #form_contact {
 	/*border: 2px solid red;*/
 	padding-left: 200px;
